@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="Text_data_analyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Text_data_analyzer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Text_data_analyzer.jar">
+        <element id="module-output" name="Text_data_analyzer.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: org.apache.logging.log4j:log4j-core:2.22.1" />
+      <element id="library" level="project" name="Gradle: com.github.rzymek:opczip:1.2.0" />
+      <element id="library" level="project" name="Gradle: org.dhatim:fastexcel:0.16.2" />
+      <element id="library" level="project" name="Gradle: org.apache.logging.log4j:log4j-api:2.22.1" />
+    </root>
+  </artifact>
+</component>
